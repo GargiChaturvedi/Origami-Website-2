@@ -1,0 +1,47 @@
+.page-wrap {
+    background-color: goldenrod;
+    border: 10px ridge indigo;
+}
+
+.header {
+    color: rgb(199, 62, 62);
+    font: 100% georgia, serif;
+    display: flex;
+    justify-content: center;
+}
+
+.description {
+    color: rgb(8, 75, 14);
+    font: 90% georgia, serif;
+}
+
+.steps {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    padding: 25px;
+}
+
+.step1, .step2, .step3, .step4, .step5, .step6, .step7, .step8, .step9, .step10, .step11, .step12, .step13, .step14, .step15, .step16, .step17, .step18, .step19, .step20, .step21, .step22, .step23, .step24, .step25, .step26, .step27 {
+    border: 5px dotted rgb(87, 41, 3);
+}
+
+.step1 p, .step2 p, .step3 p, .step4 p, .step5 p, .step6 p, .step7 p, .step8 p, .step9 p, .step10 p, .step11 p, .step12 p, .step13 p, .step14 p, .step15 p, .step16 p, .step17 p, .step18 p, .step19 p, .step20 p, .step21 p, .step22 p, .step23 p, .step24 p, .step25 p, .step26 p, .step27 p {
+    font: 20px garamond;
+    color: rgb(6, 84, 90);
+} 
+
+.details {
+    font: 30px garamond;
+    color:rgb(75, 9, 83)
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+}

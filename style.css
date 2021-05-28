@@ -1,0 +1,76 @@
+.page-wrap {
+    background-color: rgb(204, 199, 153);
+    border: 10px groove blue;
+}
+
+img {
+    width: 250px;
+    height: 200px;
+}
+
+.heading {
+    font: 100% georgia, serif;
+    display: flex;
+    color: hotpink;
+    justify-content: center;
+}
+
+.details {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.batContent {
+    display: flex;
+    justify-content: space-evenly;
+    border: 8px dotted rgb(185, 93, 17);
+}
+
+.batFacts {
+    font: 20px verdana, sans-serif;
+    color: saddlebrown;
+}
+
+.bunnyContent {
+    display: flex;
+    justify-content: space-evenly;
+    border: 8px dotted rgb(185, 93, 17);
+}
+
+.bunnyFacts {
+    font: 20px verdana, sans-serif;
+    color: orangered;
+}
+
+.butterflyContent {
+    display: flex;
+    justify-content: space-evenly;
+    border: 8px dotted rgb(185, 93, 17);
+}
+
+.butterflyFacts {
+    font: 20px verdana, sans-serif;
+    color: royalblue;
+}
+
+.pandaContent {
+    display: flex;
+    justify-content: space-evenly;
+    border: 8px dotted rgb(185, 93, 17);
+}
+
+.pandaFacts {
+    font: 20px verdana, sans-serif;
+    color:rgb(0, 0, 0);
+}
+
+.tortoiseContent {
+    display: flex;
+    justify-content: space-evenly;
+    border: 8px dotted rgb(185, 93, 17);
+}
+
+.tortoiseFacts {
+    font: 20px verdana, sans-serif;
+    color: seagreen;
+}
